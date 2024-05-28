@@ -29,7 +29,7 @@ a
 
 ## 3.将BDUSS添加到仓库的Secrets中
 
-| Name  | Value       |
+| Name  | Value       |1
 | ----- | ----------- |
 | BDUSS | xxxxxxxxxxx |
 
